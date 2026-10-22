@@ -1,0 +1,726 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-22T09:05:41Z",
+  "schedule": "hourly",
+  "publisher": "ANTARA",
+  "method": "Official RSS rubric grouping plus transparent title-keyword tags for latest-news RSS. Headlines only; no automated investment analysis.",
+  "sources": [
+    {
+      "id": "politik",
+      "label": "Politik",
+      "category": "P",
+      "url": "https://www.antaranews.com/rss/politik.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-15T11:46:37Z",
+      "count": 1
+    },
+    {
+      "id": "ekonomi",
+      "label": "Ekonomi",
+      "category": "E",
+      "url": "https://www.antaranews.com/rss/ekonomi.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T01:38:18Z",
+      "count": 4
+    },
+    {
+      "id": "finansial",
+      "label": "Finansial",
+      "category": "E",
+      "url": "https://www.antaranews.com/rss/ekonomi-finansial.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T08:59:41Z",
+      "count": 20
+    },
+    {
+      "id": "bursa",
+      "label": "Bursa",
+      "category": "E",
+      "url": "https://www.antaranews.com/rss/ekonomi-bursa.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T07:19:50Z",
+      "count": 20
+    },
+    {
+      "id": "humaniora",
+      "label": "Humaniora",
+      "category": "S",
+      "url": "https://www.antaranews.com/rss/humaniora.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-15T10:50:48Z",
+      "count": 2
+    },
+    {
+      "id": "tekno",
+      "label": "Teknologi",
+      "category": "T",
+      "url": "https://www.antaranews.com/rss/tekno.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T01:51:39Z",
+      "count": 5
+    },
+    {
+      "id": "hukum",
+      "label": "Hukum",
+      "category": "L",
+      "url": "https://www.antaranews.com/rss/hukum.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-15T10:18:28Z",
+      "count": 1
+    },
+    {
+      "id": "lingkungan",
+      "label": "Lingkungan",
+      "category": "ENV",
+      "url": "https://www.antaranews.com/rss/warta-bumi.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-19T00:28:04Z",
+      "count": 2
+    },
+    {
+      "id": "dunia",
+      "label": "Dunia / geopolitik",
+      "category": "GEO",
+      "url": "https://www.antaranews.com/rss/dunia.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T01:31:19Z",
+      "count": 3
+    },
+    {
+      "id": "terkini",
+      "label": "Lintas rubrik",
+      "category": "LATEST",
+      "url": "https://www.antaranews.com/rss/terkini.xml",
+      "checked_at": "2026-10-22T09:05:41Z",
+      "status": "ok",
+      "last_success_at": "2026-10-22T09:05:41Z",
+      "latest_published_at": "2026-10-22T09:04:42Z",
+      "count": 21
+    }
+  ],
+  "items": [
+    {
+      "title": "Kadin: Ketahanan usaha terhadap bencana diprioritaskan hadapi El Nino",
+      "url": "https://www.antaranews.com/berita/5804629/kadin-ketahanan-usaha-terhadap-bencana-diprioritaskan-hadapi-el-nino",
+      "published_at": "2026-10-22T09:04:42Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Wamenag: Pesantren berperan penting dalam perjuangan kemerdekaan",
+      "url": "https://www.antaranews.com/berita/5804613/wamenag-pesantren-berperan-penting-dalam-perjuangan-kemerdekaan",
+      "published_at": "2026-10-22T09:01:04Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "P",
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Kemenekraf nilai budaya lokal berpotensi diangkat jadi tema gim",
+      "url": "https://www.antaranews.com/berita/5804609/kemenekraf-nilai-budaya-lokal-berpotensi-diangkat-jadi-tema-gim",
+      "published_at": "2026-10-22T09:00:42Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Uji kesiapan di luar pangkalan, TNI AU jadikan jalan tol landasan alternatif",
+      "url": "https://www.antaranews.com/foto/5804605/uji-kesiapan-di-luar-pangkalan-tni-au-jadikan-jalan-tol-landasan-alternatif",
+      "published_at": "2026-10-22T09:00:11Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "P"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Bank Aladin Syariah sepakati pembiayaan Rp24,9 miliar di ISEF 2026",
+      "url": "https://www.antaranews.com/berita/5804601/bank-aladin-syariah-sepakati-pembiayaan-rp249-miliar-di-isef-2026",
+      "published_at": "2026-10-22T08:59:41Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "Dinkes Banjarnegara gelar CKG bagi santri dalam peringatan HSN",
+      "url": "https://www.antaranews.com/video/5804549/dinkes-banjarnegara-gelar-ckg-bagi-santri-dalam-peringatan-hsn",
+      "published_at": "2026-10-22T08:59:18Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Santri disebut miliki potensi jadi pemimpin di masa mendatang",
+      "url": "https://www.antaranews.com/berita/5804593/santri-disebut-miliki-potensi-jadi-pemimpin-di-masa-mendatang",
+      "published_at": "2026-10-22T08:59:01Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Pemprov Jateng ajak para santri ikut entaskan kemiskinan",
+      "url": "https://www.antaranews.com/berita/5804589/pemprov-jateng-ajak-para-santri-ikut-entaskan-kemiskinan",
+      "published_at": "2026-10-22T08:57:28Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Danantara prioritas sektor mineral kritis, hilirisasi dan AI pada 2027",
+      "url": "https://www.antaranews.com/berita/5804569/danantara-prioritas-sektor-mineral-kritis-hilirisasi-dan-ai-pada-2027",
+      "published_at": "2026-10-22T08:49:03Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E",
+        "T"
+      ],
+      "feeds": [
+        "finansial",
+        "terkini"
+      ]
+    },
+    {
+      "title": "KPAI kawal proses hukum anak terlibat perundungan anak disabilitas",
+      "url": "https://www.antaranews.com/berita/5804565/kpai-kawal-proses-hukum-anak-terlibat-perundungan-anak-disabilitas",
+      "published_at": "2026-10-22T08:49:02Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "L"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Rupiah melemah walau BI turunkan GWM dan perpanjang kebijakan LTV/FTV",
+      "url": "https://www.antaranews.com/berita/5804557/rupiah-melemah-walau-bi-turunkan-gwm-dan-perpanjang-kebijakan-ltv-ftv",
+      "published_at": "2026-10-22T08:47:48Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial",
+        "terkini"
+      ]
+    },
+    {
+      "title": "Kemenhub buka investasi Terminal Purabaya dan Betan Subing via KPBU",
+      "url": "https://www.antaranews.com/berita/5804553/kemenhub-buka-investasi-terminal-purabaya-dan-betan-subing-via-kpbu",
+      "published_at": "2026-10-22T08:46:51Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Survei Kadin: Perkembangan teknologi jadi sinyal positif untuk bisnis",
+      "url": "https://www.antaranews.com/berita/5804545/survei-kadin-perkembangan-teknologi-jadi-sinyal-positif-untuk-bisnis",
+      "published_at": "2026-10-22T08:44:39Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "KLH: Perusahaan sawit perlu perkuat inventarisasi emisi",
+      "url": "https://www.antaranews.com/berita/5804541/klh-perusahaan-sawit-perlu-perkuat-inventarisasi-emisi",
+      "published_at": "2026-10-22T08:44:05Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Tiga pekerjaan rumah cukai rokok untuk Menteri Keuangan",
+      "url": "https://www.antaranews.com/berita/5804533/tiga-pekerjaan-rumah-cukai-rokok-untuk-menteri-keuangan",
+      "published_at": "2026-10-22T08:40:52Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "P"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Ribuan warga Yunani protes pendanaan pendidikan dan biaya hidup",
+      "url": "https://www.antaranews.com/berita/5804513/ribuan-warga-yunani-protes-pendanaan-pendidikan-dan-biaya-hidup",
+      "published_at": "2026-10-22T08:36:53Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Petugas gabungan masih terus berjibaku padamkan api di hutan TNWK",
+      "url": "https://www.antaranews.com/berita/5804505/petugas-gabungan-masih-terus-berjibaku-padamkan-api-di-hutan-tnwk",
+      "published_at": "2026-10-22T08:35:58Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Indonesia gabung IDDI percepat transisi material rendah karbon",
+      "url": "https://www.antaranews.com/berita/5804493/indonesia-gabung-iddi-percepat-transisi-material-rendah-karbon",
+      "published_at": "2026-10-22T08:32:42Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Seluruh OPD di Pemkab Karawang khataman Al-Quran pada Hari Santri",
+      "url": "https://www.antaranews.com/berita/5804489/seluruh-opd-di-pemkab-karawang-khataman-al-quran-pada-hari-santri",
+      "published_at": "2026-10-22T08:32:14Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Peringati Hari Santri, Menag tekankan nilai sejarah Resolusi Jihad",
+      "url": "https://www.antaranews.com/video/5804389/peringati-hari-santri-menag-tekankan-nilai-sejarah-resolusi-jihad",
+      "published_at": "2026-10-22T08:31:41Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Waka Komisi X DPR: Santri harus jadi solusi bangsa atasi kemiskinan",
+      "url": "https://www.antaranews.com/berita/5804481/waka-komisi-x-dpr-santri-harus-jadi-solusi-bangsa-atasi-kemiskinan",
+      "published_at": "2026-10-22T08:29:35Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "P",
+        "S"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "Xi Jinping: China siap perluas kerja sama dengan Korea Utara",
+      "url": "https://www.antaranews.com/berita/5804465/xi-jinping-china-siap-perluas-kerja-sama-dengan-korea-utara",
+      "published_at": "2026-10-22T08:26:32Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "GEO"
+      ],
+      "feeds": [
+        "terkini"
+      ]
+    },
+    {
+      "title": "BCA Digital: Literasi penting untuk memahami risiko keuangan digital",
+      "url": "https://www.antaranews.com/berita/5804305/bca-digital-literasi-penting-untuk-memahami-risiko-keuangan-digital",
+      "published_at": "2026-10-22T07:34:30Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "BEI kecualikan saham HSC dari perhitungan IHSG efektif 2 November 2026",
+      "url": "https://www.antaranews.com/berita/5804269/bei-kecualikan-saham-hsc-dari-perhitungan-ihsg-efektif-2-november-2026",
+      "published_at": "2026-10-22T07:19:50Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "\"Buy Indonesia\" dan optimisme ketahanan ekonomi nasional",
+      "url": "https://www.antaranews.com/berita/5804253/buy-indonesia-dan-optimisme-ketahanan-ekonomi-nasional",
+      "published_at": "2026-10-22T07:17:21Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "IHSG menguat di tengah pasar cermati perkembangan regulasi dan MSCI",
+      "url": "https://www.antaranews.com/berita/5803781/ihsg-menguat-di-tengah-pasar-cermati-perkembangan-regulasi-dan-msci",
+      "published_at": "2026-10-22T03:16:00Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "BRI Insurance tekankan pentingnya literasi keuangan dan kelestarian",
+      "url": "https://www.antaranews.com/berita/5803777/bri-insurance-tekankan-pentingnya-literasi-keuangan-dan-kelestarian",
+      "published_at": "2026-10-22T03:11:15Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "Bank Muamalat: Outstanding pembiayaan multiguna bertumbuh 11,8 persen",
+      "url": "https://www.antaranews.com/berita/5803717/bank-muamalat-outstanding-pembiayaan-multiguna-bertumbuh-118-persen",
+      "published_at": "2026-10-22T02:22:55Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "IHSG Kamis dibuka melemah 80,38 poin ke posisi 5.247",
+      "url": "https://www.antaranews.com/berita/5803709/ihsg-kamis-dibuka-melemah-8038-poin-ke-posisi-5247",
+      "published_at": "2026-10-22T02:20:25Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "Rupiah pada Kamis pagi melemah jadi Rp18.033 per dolar AS",
+      "url": "https://www.antaranews.com/berita/5803705/rupiah-pada-kamis-pagi-melemah-jadi-rp18033-per-dolar-as",
+      "published_at": "2026-10-22T02:19:03Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "Cara mengatasi notifikasi WhatsApp yang terlambat masuk",
+      "url": "https://www.antaranews.com/berita/5803673/cara-mengatasi-notifikasi-whatsapp-yang-terlambat-masuk",
+      "published_at": "2026-10-22T01:51:39Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "tekno"
+      ]
+    },
+    {
+      "title": "Apa perbedaan sertifikat halal dan label halal pada kemasan?",
+      "url": "https://www.antaranews.com/berita/5803661/apa-perbedaan-sertifikat-halal-dan-label-halal-pada-kemasan",
+      "published_at": "2026-10-22T01:38:18Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "ekonomi"
+      ]
+    },
+    {
+      "title": "Cara memeriksa status sertifikat halal produk secara online",
+      "url": "https://www.antaranews.com/berita/5803653/cara-memeriksa-status-sertifikat-halal-produk-secara-online",
+      "published_at": "2026-10-22T01:36:07Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "ekonomi"
+      ]
+    },
+    {
+      "title": "Prancis dilanda gelombang protes parah, apa yang jadi penyebabnya?",
+      "url": "https://www.antaranews.com/berita/5803645/prancis-dilanda-gelombang-protes-parah-apa-yang-jadi-penyebabnya",
+      "published_at": "2026-10-22T01:31:19Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "GEO"
+      ],
+      "feeds": [
+        "dunia"
+      ]
+    },
+    {
+      "title": "Kerusuhan meluas ke Milan, ini yang jadi penyebabnya",
+      "url": "https://www.antaranews.com/berita/5803633/kerusuhan-meluas-ke-milan-ini-yang-jadi-penyebabnya",
+      "published_at": "2026-10-22T01:27:34Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "GEO"
+      ],
+      "feeds": [
+        "dunia"
+      ]
+    },
+    {
+      "title": "Ketua OJK: Fokus kami pastikan reformasi pasar modal beri hasil nyata",
+      "url": "https://www.antaranews.com/berita/5803193/ketua-ojk-fokus-kami-pastikan-reformasi-pasar-modal-beri-hasil-nyata",
+      "published_at": "2026-10-21T15:31:28Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "OJK tegaskan reformasi pasar modal berlanjut di tengah isu MSCI",
+      "url": "https://www.antaranews.com/berita/5803189/ojk-tegaskan-reformasi-pasar-modal-berlanjut-di-tengah-isu-msci",
+      "published_at": "2026-10-21T15:31:18Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "BI NTB: Waspadai risiko El Nino 2027 terhadap inflasi pangan",
+      "url": "https://www.antaranews.com/berita/5803093/bi-ntb-waspadai-risiko-el-nino-2027-terhadap-inflasi-pangan",
+      "published_at": "2026-10-21T14:49:09Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "finansial"
+      ]
+    },
+    {
+      "title": "OJK serahkan surat sanksi pelanggar pasar modal ke DSSA, BREN dan CUAN",
+      "url": "https://www.antaranews.com/berita/5803049/ojk-serahkan-surat-sanksi-pelanggar-pasar-modal-ke-dssa-bren-dan-cuan",
+      "published_at": "2026-10-21T14:31:46Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "E"
+      ],
+      "feeds": [
+        "bursa"
+      ]
+    },
+    {
+      "title": "Berapa batas kualitas udara sehat? Ini standar ISPU dan WHO",
+      "url": "https://www.antaranews.com/berita/5795617/berapa-batas-kualitas-udara-sehat-ini-standar-ispu-dan-who",
+      "published_at": "2026-10-19T00:28:04Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "lingkungan"
+      ]
+    },
+    {
+      "title": "Mengenal sejarah spirulina, dari Suku Aztek hingga jadi superfood",
+      "url": "https://www.antaranews.com/berita/5795593/mengenal-sejarah-spirulina-dari-suku-aztek-hingga-jadi-superfood",
+      "published_at": "2026-10-19T00:10:08Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "ENV"
+      ],
+      "feeds": [
+        "lingkungan"
+      ]
+    },
+    {
+      "title": "Ini alasan mengapa laptop lemot saat buka whatsapp",
+      "url": "https://www.antaranews.com/berita/5791005/ini-alasan-mengapa-laptop-lemot-saat-buka-whatsapp",
+      "published_at": "2026-10-16T07:24:11Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "tekno"
+      ]
+    },
+    {
+      "title": "Ini alasan mengapa laptop Anda lemot saat streaming",
+      "url": "https://www.antaranews.com/berita/5790969/ini-alasan-mengapa-laptop-anda-lemot-saat-streaming",
+      "published_at": "2026-10-16T07:12:58Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "tekno"
+      ]
+    },
+    {
+      "title": "Berapa usia pensiun anggota Polri? simak aturan terbarunya",
+      "url": "https://www.antaranews.com/berita/5789105/berapa-usia-pensiun-anggota-polri-simak-aturan-terbarunya",
+      "published_at": "2026-10-15T11:46:37Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "P"
+      ],
+      "feeds": [
+        "politik"
+      ]
+    },
+    {
+      "title": "Langkah-langkah mandi wajib yang tepat menurut syariat Islam",
+      "url": "https://www.antaranews.com/berita/5788825/langkah-langkah-mandi-wajib-yang-tepat-menurut-syariat-islam",
+      "published_at": "2026-10-15T10:50:48Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "humaniora"
+      ]
+    },
+    {
+      "title": "Benarkah mandi wajib tidak harus wudhu lagi? Ini penjelasannya",
+      "url": "https://www.antaranews.com/berita/5788813/benarkah-mandi-wajib-tidak-harus-wudhu-lagi-ini-penjelasannya",
+      "published_at": "2026-10-15T10:46:35Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "S"
+      ],
+      "feeds": [
+        "humaniora"
+      ]
+    },
+    {
+      "title": "Siapa itu Houthi dan mengapa mereka menyerang Arab Saudi?",
+      "url": "https://www.antaranews.com/berita/5788769/siapa-itu-houthi-dan-mengapa-mereka-menyerang-arab-saudi",
+      "published_at": "2026-10-15T10:37:24Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "GEO"
+      ],
+      "feeds": [
+        "dunia"
+      ]
+    },
+    {
+      "title": "Mengenal bagaimana modus pencucian uang bekerja",
+      "url": "https://www.antaranews.com/berita/5788717/mengenal-bagaimana-modus-pencucian-uang-bekerja",
+      "published_at": "2026-10-15T10:18:28Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "L"
+      ],
+      "feeds": [
+        "hukum"
+      ]
+    },
+    {
+      "title": "8 tablet Android RAM 12GB untuk kebutuhan kuliah",
+      "url": "https://www.antaranews.com/berita/5788681/8-tablet-android-ram-12gb-untuk-kebutuhan-kuliah",
+      "published_at": "2026-10-15T10:12:47Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "tekno"
+      ]
+    },
+    {
+      "title": "8 HP Android dengan kamera AI untuk konten estetik",
+      "url": "https://www.antaranews.com/berita/5788641/8-hp-android-dengan-kamera-ai-untuk-konten-estetik",
+      "published_at": "2026-10-15T10:07:51Z",
+      "publisher": "ANTARA",
+      "categories": [
+        "T"
+      ],
+      "feeds": [
+        "tekno"
+      ]
+    }
+  ]
+}
